@@ -1,0 +1,1792 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/opt/homebrew/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+        "fileHash": "88b343bdfc42fb287bda45508470a740db672893f7aa66b56f419334e2f1191a78ba47aa1ea8cce4234bcae8618c5a0db34a9d44db75317fa6870e1b26d893ef"
+      },
+      "expiry": 1667576807614
+    },
+    "/opt/homebrew/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+        "fileHash": "0003b0845efc075c11d0115ead57e65515af285ba497430220b930722fe9a9b7c22f41d1e5ad560fa3ef5fb430420f58d65423d49b568d1686120fc2ffd1d95b"
+      },
+      "expiry": 1667576807618
+    },
+    "/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/2.7/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "b78c061ed652f80ae818da8456ba090998d9a9a7c3bfdac1d6b5c008256aab2aa63b9deb1901c83dc2be3e9a985b56cec1f2ed7b613cc7e6ef258aa3a1934a33"
+      },
+      "expiry": 1667576807674
+    },
+    "/usr/local/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "cfc03889aa06d08b6bb1945ecb6cda7066ff5af84115746f749e0f4feaf6266d0df848c6dfcbb04146571d3554a0afe78465fd48a5ce6263d322535c513387d7"
+      },
+      "expiry": 1667576807685
+    },
+    "/Library/Frameworks/Python.framework/Versions/2.7/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/2.7/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "089afd59328d14697ee8310bf54523f0e3ed66d9764f5a373d9eb27594880ac2c324d41c18932d6826e5887d2ab0be7503755975d4dc09d30ad3e4071716534c"
+      },
+      "expiry": 1667576807626
+    },
+    "/usr/local/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "760e8a1f34748eee1b13d9cf01b13a1685b6660a078d4a75c83200ef0879b7913e81cd3f929094c1d11d3ea123aa3cc53a1d165fb6e88c4202a92f767e7a71c9"
+      },
+      "expiry": 1667576807679
+    },
+    "/usr/local/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/local/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "46987d35511d24cc73ce55d82a99407acd2103a0553fe9f9894b9a621ea74281aa161f2c851e295e3aa8934ff3dc9c354ae102cbc6ef0d37e9272e3ea7bc0d00"
+      },
+      "expiry": 1667576807681
+    },
+    "/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "e1bbf6feb6c99a37d6f31c54b70a79d574ee355a63f45a6440ffee99f38ecbe3ad55b5f76d8ee0eb075e0ca1c31322e88772d4eeb7b986ee72a4c807108191ee"
+      },
+      "expiry": 1667576807625
+    },
+    "/opt/homebrew/opt/python@3.10/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+        "fileHash": "ee548c8987bcb39575ea938fdf087f872cd829659ce37f0f8efcfe2038672ce1ba80e266c95db0f2b3dba8a3407f6586f32b8a85cf940a07020af08135388575"
+      },
+      "expiry": 1667576807684
+    },
+    "/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "e5d0580479b03c4335ac25dbc93f424ef67023f37ffcac7a1573cdda148358f457200cd084e088b0e7b890f8abac838df4719ab377c5a0a05b016b4f8c8649e6"
+      },
+      "expiry": 1667576807713
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+        "fileHash": "ee548c8987bcb39575ea938fdf087f872cd829659ce37f0f8efcfe2038672ce1ba80e266c95db0f2b3dba8a3407f6586f32b8a85cf940a07020af08135388575",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "e5d0580479b03c4335ac25dbc93f424ef67023f37ffcac7a1573cdda148358f457200cd084e088b0e7b890f8abac838df4719ab377c5a0a05b016b4f8c8649e6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "e5d0580479b03c4335ac25dbc93f424ef67023f37ffcac7a1573cdda148358f457200cd084e088b0e7b890f8abac838df4719ab377c5a0a05b016b4f8c8649e6",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "e5d0580479b03c4335ac25dbc93f424ef67023f37ffcac7a1573cdda148358f457200cd084e088b0e7b890f8abac838df4719ab377c5a0a05b016b4f8c8649e6",
+        "type": "Unknown"
+      }
+    ],
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.8-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.8-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+      "fileHash": "ee548c8987bcb39575ea938fdf087f872cd829659ce37f0f8efcfe2038672ce1ba80e266c95db0f2b3dba8a3407f6586f32b8a85cf940a07020af08135388575",
+      "type": "Unknown",
+      "cachedEntry": true
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.8-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.8-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+      "fileHash": "ee548c8987bcb39575ea938fdf087f872cd829659ce37f0f8efcfe2038672ce1ba80e266c95db0f2b3dba8a3407f6586f32b8a85cf940a07020af08135388575",
+      "type": "Unknown"
+    },
+    "/opt/homebrew/opt/python@3.10/bin/python3.10.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "ee548c8987bcb39575ea938fdf087f872cd829659ce37f0f8efcfe2038672ce1ba80e266c95db0f2b3dba8a3407f6586f32b8a85cf940a07020af08135388575",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.8-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 8,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.8-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+          "fileHash": "ee548c8987bcb39575ea938fdf087f872cd829659ce37f0f8efcfe2038672ce1ba80e266c95db0f2b3dba8a3407f6586f32b8a85cf940a07020af08135388575",
+          "type": "Unknown",
+          "cachedEntry": true,
+          "displayName": "Python 3.10.8 64-bit",
+          "__store": true
+        }
+      },
+      "expiry": 1667576807668
+    },
+    "/opt/homebrew/opt/python@3.10/bin/python3.10.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.8 64-bit",
+        "hash": "ee548c8987bcb39575ea938fdf087f872cd829659ce37f0f8efcfe2038672ce1ba80e266c95db0f2b3dba8a3407f6586f32b8a85cf940a07020af08135388575-3d78c87fb4ef168becd4fa228f02f479"
+      },
+      "expiry": 1667576807692
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "1eccbdcbe105feb81fc58cf4015784105c9ee5a828ceaae3cedd7ce9fe0a03d3e1055e17202fb253568442f0f861b0d125affe08747ea342cee2435802a03736"
+      },
+      "expiry": 1667576807868
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "46987d35511d24cc73ce55d82a99407acd2103a0553fe9f9894b9a621ea74281aa161f2c851e295e3aa8934ff3dc9c354ae102cbc6ef0d37e9272e3ea7bc0d00",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "760e8a1f34748eee1b13d9cf01b13a1685b6660a078d4a75c83200ef0879b7913e81cd3f929094c1d11d3ea123aa3cc53a1d165fb6e88c4202a92f767e7a71c9",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "cfc03889aa06d08b6bb1945ecb6cda7066ff5af84115746f749e0f4feaf6266d0df848c6dfcbb04146571d3554a0afe78465fd48a5ce6263d322535c513387d7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "46987d35511d24cc73ce55d82a99407acd2103a0553fe9f9894b9a621ea74281aa161f2c851e295e3aa8934ff3dc9c354ae102cbc6ef0d37e9272e3ea7bc0d00",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "760e8a1f34748eee1b13d9cf01b13a1685b6660a078d4a75c83200ef0879b7913e81cd3f929094c1d11d3ea123aa3cc53a1d165fb6e88c4202a92f767e7a71c9",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "cfc03889aa06d08b6bb1945ecb6cda7066ff5af84115746f749e0f4feaf6266d0df848c6dfcbb04146571d3554a0afe78465fd48a5ce6263d322535c513387d7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/2.7/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "089afd59328d14697ee8310bf54523f0e3ed66d9764f5a373d9eb27594880ac2c324d41c18932d6826e5887d2ab0be7503755975d4dc09d30ad3e4071716534c",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/2.7/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "b78c061ed652f80ae818da8456ba090998d9a9a7c3bfdac1d6b5c008256aab2aa63b9deb1901c83dc2be3e9a985b56cec1f2ed7b613cc7e6ef258aa3a1934a33",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "e1bbf6feb6c99a37d6f31c54b70a79d574ee355a63f45a6440ffee99f38ecbe3ad55b5f76d8ee0eb075e0ca1c31322e88772d4eeb7b986ee72a4c807108191ee",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+        "fileHash": "0003b0845efc075c11d0115ead57e65515af285ba497430220b930722fe9a9b7c22f41d1e5ad560fa3ef5fb430420f58d65423d49b568d1686120fc2ffd1d95b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.8-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.8-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+        "fileHash": "88b343bdfc42fb287bda45508470a740db672893f7aa66b56f419334e2f1191a78ba47aa1ea8cce4234bcae8618c5a0db34a9d44db75317fa6870e1b26d893ef",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "46987d35511d24cc73ce55d82a99407acd2103a0553fe9f9894b9a621ea74281aa161f2c851e295e3aa8934ff3dc9c354ae102cbc6ef0d37e9272e3ea7bc0d00",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "760e8a1f34748eee1b13d9cf01b13a1685b6660a078d4a75c83200ef0879b7913e81cd3f929094c1d11d3ea123aa3cc53a1d165fb6e88c4202a92f767e7a71c9",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "cfc03889aa06d08b6bb1945ecb6cda7066ff5af84115746f749e0f4feaf6266d0df848c6dfcbb04146571d3554a0afe78465fd48a5ce6263d322535c513387d7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "1eccbdcbe105feb81fc58cf4015784105c9ee5a828ceaae3cedd7ce9fe0a03d3e1055e17202fb253568442f0f861b0d125affe08747ea342cee2435802a03736",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "46987d35511d24cc73ce55d82a99407acd2103a0553fe9f9894b9a621ea74281aa161f2c851e295e3aa8934ff3dc9c354ae102cbc6ef0d37e9272e3ea7bc0d00",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "760e8a1f34748eee1b13d9cf01b13a1685b6660a078d4a75c83200ef0879b7913e81cd3f929094c1d11d3ea123aa3cc53a1d165fb6e88c4202a92f767e7a71c9",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/local/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.16-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 16,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.16-final"
+        },
+        "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "cfc03889aa06d08b6bb1945ecb6cda7066ff5af84115746f749e0f4feaf6266d0df848c6dfcbb04146571d3554a0afe78465fd48a5ce6263d322535c513387d7",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "1eccbdcbe105feb81fc58cf4015784105c9ee5a828ceaae3cedd7ce9fe0a03d3e1055e17202fb253568442f0f861b0d125affe08747ea342cee2435802a03736",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/usr/local/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "46987d35511d24cc73ce55d82a99407acd2103a0553fe9f9894b9a621ea74281aa161f2c851e295e3aa8934ff3dc9c354ae102cbc6ef0d37e9272e3ea7bc0d00-da87dd155ebedf1d4778bacae6729557"
+      },
+      "expiry": 1667325012371
+    },
+    "/Library/Frameworks/Python.framework/Versions/2.7/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "089afd59328d14697ee8310bf54523f0e3ed66d9764f5a373d9eb27594880ac2c324d41c18932d6826e5887d2ab0be7503755975d4dc09d30ad3e4071716534c-87606e2dd468d684ca9997c1edaf1862"
+      },
+      "expiry": 1667325012372
+    },
+    "/opt/homebrew/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.8 64-bit",
+        "hash": "0003b0845efc075c11d0115ead57e65515af285ba497430220b930722fe9a9b7c22f41d1e5ad560fa3ef5fb430420f58d65423d49b568d1686120fc2ffd1d95b-54487ab7806605d4e319c00aabf527a6"
+      },
+      "expiry": 1667325012374
+    },
+    "/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.16 64-bit",
+        "hash": "e5d0580479b03c4335ac25dbc93f424ef67023f37ffcac7a1573cdda148358f457200cd084e088b0e7b890f8abac838df4719ab377c5a0a05b016b4f8c8649e6-2c8f7eeb0bafe7a08ae26dc759fbb43f"
+      },
+      "expiry": 1667325012374
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.6 64-bit",
+        "hash": "1eccbdcbe105feb81fc58cf4015784105c9ee5a828ceaae3cedd7ce9fe0a03d3e1055e17202fb253568442f0f861b0d125affe08747ea342cee2435802a03736-8ec019a1d1074fa483cf1d6eb22b4548"
+      },
+      "expiry": 1667325012380
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.8-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.8-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+      "fileHash": "ee548c8987bcb39575ea938fdf087f872cd829659ce37f0f8efcfe2038672ce1ba80e266c95db0f2b3dba8a3407f6586f32b8a85cf940a07020af08135388575",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.10.8 64-bit"
+    },
+    "/usr/local/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "46987d35511d24cc73ce55d82a99407acd2103a0553fe9f9894b9a621ea74281aa161f2c851e295e3aa8934ff3dc9c354ae102cbc6ef0d37e9272e3ea7bc0d00",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/local/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "46987d35511d24cc73ce55d82a99407acd2103a0553fe9f9894b9a621ea74281aa161f2c851e295e3aa8934ff3dc9c354ae102cbc6ef0d37e9272e3ea7bc0d00",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1667325012389
+    },
+    "/Library/Frameworks/Python.framework/Versions/2.7/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "089afd59328d14697ee8310bf54523f0e3ed66d9764f5a373d9eb27594880ac2c324d41c18932d6826e5887d2ab0be7503755975d4dc09d30ad3e4071716534c",
+        "info": {
+          "architecture": 3,
+          "path": "/Library/Frameworks/Python.framework/Versions/2.7/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "089afd59328d14697ee8310bf54523f0e3ed66d9764f5a373d9eb27594880ac2c324d41c18932d6826e5887d2ab0be7503755975d4dc09d30ad3e4071716534c",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1667325012391
+    },
+    "/opt/homebrew/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "0003b0845efc075c11d0115ead57e65515af285ba497430220b930722fe9a9b7c22f41d1e5ad560fa3ef5fb430420f58d65423d49b568d1686120fc2ffd1d95b",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.8-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 8,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.8-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+          "fileHash": "0003b0845efc075c11d0115ead57e65515af285ba497430220b930722fe9a9b7c22f41d1e5ad560fa3ef5fb430420f58d65423d49b568d1686120fc2ffd1d95b",
+          "type": "Unknown",
+          "displayName": "Python 3.10.8 64-bit"
+        }
+      },
+      "expiry": 1667325012393
+    },
+    "/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "e5d0580479b03c4335ac25dbc93f424ef67023f37ffcac7a1573cdda148358f457200cd084e088b0e7b890f8abac838df4719ab377c5a0a05b016b4f8c8649e6",
+        "info": {
+          "architecture": 3,
+          "path": "/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.16-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 16,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.16-final"
+          },
+          "sysPrefix": "/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "e5d0580479b03c4335ac25dbc93f424ef67023f37ffcac7a1573cdda148358f457200cd084e088b0e7b890f8abac838df4719ab377c5a0a05b016b4f8c8649e6",
+          "type": "Unknown",
+          "displayName": "Python 2.7.16 64-bit"
+        }
+      },
+      "expiry": 1667325012395
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "1eccbdcbe105feb81fc58cf4015784105c9ee5a828ceaae3cedd7ce9fe0a03d3e1055e17202fb253568442f0f861b0d125affe08747ea342cee2435802a03736",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.6-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.6-final"
+          },
+          "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9",
+          "fileHash": "1eccbdcbe105feb81fc58cf4015784105c9ee5a828ceaae3cedd7ce9fe0a03d3e1055e17202fb253568442f0f861b0d125affe08747ea342cee2435802a03736",
+          "type": "Unknown",
+          "displayName": "Python 3.9.6 64-bit"
+        }
+      },
+      "expiry": 1667325012398
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.8-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.8-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+      "fileHash": "ee548c8987bcb39575ea938fdf087f872cd829659ce37f0f8efcfe2038672ce1ba80e266c95db0f2b3dba8a3407f6586f32b8a85cf940a07020af08135388575",
+      "type": "Unknown",
+      "displayName": "Python 3.10.8 64-bit"
+    }
+  },
+  "coc-python|/Users/tomtonner/couchbase-cloud": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:43bcffa281073f2d4f73aa3da4fa9046": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:43bcffa281073f2d4f73aa3da4fa9046": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/tomtonner/couchbase-cloud": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.8-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.8-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+      "fileHash": "ee548c8987bcb39575ea938fdf087f872cd829659ce37f0f8efcfe2038672ce1ba80e266c95db0f2b3dba8a3407f6586f32b8a85cf940a07020af08135388575",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/tomtonner/nutshell": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:932d61706bf5e63c4da78dd8a2342c46": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:932d61706bf5e63c4da78dd8a2342c46": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/tomtonner/nutshell": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.8-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 8,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.8-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+      "fileHash": "ee548c8987bcb39575ea938fdf087f872cd829659ce37f0f8efcfe2038672ce1ba80e266c95db0f2b3dba8a3407f6586f32b8a85cf940a07020af08135388575",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/tomtonner/work/onprem": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-json|global": {
+    "json-schema-cache": {
+      "https://schema.management.azure.com/schemas/2018-05-01/subscriptionDeploymentTemplate.json": {
+        "etag": "0x8DA74186F3324C7",
+        "fileName": "f9e8b58e3b665b7011258b572f80a754.schema.json",
+        "updateTime": 1669049618686
+      },
+      "https://schema.management.azure.com/schemas/2021-01-01/Microsoft.Resources.json": {
+        "etag": "0x8DA74187010E070",
+        "fileName": "040b15e94f8d96ccc55a503826fc73bb.schema.json",
+        "updateTime": 1669049619018
+      },
+      "https://schema.management.azure.com/schemas/2019-07-01/Microsoft.Resources.json": {
+        "etag": "0x8DA74186F766539",
+        "fileName": "28d7738400b3207256b47665e110bd0e.schema.json",
+        "updateTime": 1669049619022
+      },
+      "https://schema.management.azure.com/schemas/2019-10-01/Microsoft.Resources.json": {
+        "etag": "0x8DA74186F897530",
+        "fileName": "081d5c39bc78a654c0471ccc5ad3435e.schema.json",
+        "updateTime": 1669049619024
+      },
+      "https://schema.management.azure.com/schemas/2020-08-01/Microsoft.Resources.json": {
+        "etag": "0x8DA74186FE78CA1",
+        "fileName": "69e1f614b56a759774333f7ba5732742.schema.json",
+        "updateTime": 1669049619026
+      },
+      "https://schema.management.azure.com/schemas/2019-08-01/Microsoft.Resources.json": {
+        "etag": "0x8DA74186F7C09B7",
+        "fileName": "8d83e969db154f5268daa908309a2344.schema.json",
+        "updateTime": 1669049619026
+      },
+      "https://schema.management.azure.com/schemas/2019-06-01-preview/Microsoft.Resources.json": {
+        "etag": "0x8DA74186F6ACE39",
+        "fileName": "974151f93a1fd07dd609211b5e5cf9fc.schema.json",
+        "updateTime": 1669049619027
+      },
+      "https://schema.management.azure.com/schemas/2019-10-01-preview/Microsoft.Resources.json": {
+        "etag": "0x8DA74186F84E200",
+        "fileName": "c6aa138595bb90eaa0e9a4c1638d8ad6.schema.json",
+        "updateTime": 1669049619028
+      },
+      "https://schema.management.azure.com/schemas/2019-03-01/Microsoft.Resources.json": {
+        "etag": "0x8DA74186F5E25EE",
+        "fileName": "d0bb4b910235864b360ddbe5b32c1aa1.schema.json",
+        "updateTime": 1669049619029
+      },
+      "https://schema.management.azure.com/schemas/2018-05-01/Microsoft.Resources.json": {
+        "etag": "0x8DA74186F31C562",
+        "fileName": "6d467b045d67b8c81991ced68a5f6659.schema.json",
+        "updateTime": 1669049619030
+      },
+      "https://schema.management.azure.com/schemas/2019-05-10/Microsoft.Resources.json": {
+        "etag": "0x8DA74186F6C7BAD",
+        "fileName": "df9ca91a5c1d26b422b744774e92fc06.schema.json",
+        "updateTime": 1669049619031
+      },
+      "https://schema.management.azure.com/schemas/2021-05-01/Microsoft.Resources.json": {
+        "etag": "0x8DA7418703D67F2",
+        "fileName": "7787ebb70e2b717e4e053d25d4df991d.schema.json",
+        "updateTime": 1669049619033
+      },
+      "https://schema.management.azure.com/schemas/common/definitions.json": {
+        "etag": "0x8DA741870BDA850",
+        "fileName": "e87ecd1a6b1adf63e3f8051ca1485bce.schema.json",
+        "updateTime": 1669049619034
+      },
+      "https://schema.management.azure.com/schemas/2021-03-01-preview/Microsoft.Resources.json": {
+        "etag": "0x8DA7418701EC105",
+        "fileName": "f0cf9766e51916d672c0a3ed9310fe74.schema.json",
+        "updateTime": 1669049619035
+      },
+      "https://schema.management.azure.com/schemas/2020-04-01/Microsoft.Support.json": {
+        "etag": "0x8DA74186FB4EB7A",
+        "fileName": "dd24e4dcae2c328c568dd90be8df531f.schema.json",
+        "updateTime": 1669049619036
+      },
+      "https://schema.management.azure.com/schemas/2022-02-01/Microsoft.Resources.json": {
+        "etag": "0x8DA7418709BCD7D",
+        "fileName": "7a5d92db60702f7246dfea4333dcc67d.schema.json",
+        "updateTime": 1669049619037
+      },
+      "https://schema.management.azure.com/schemas/2021-04-01/Microsoft.Resources.json": {
+        "etag": "0x8DA74187035C7F7",
+        "fileName": "a61e0096c637dcfef4cfa38d2d280ea0.schema.json",
+        "updateTime": 1669049619038
+      },
+      "https://schema.management.azure.com/schemas/2021-07-01/Microsoft.Features.json": {
+        "etag": "0x8DA74187057A2C3",
+        "fileName": "55fe4edb6d5c42718ce77a8ef462ed24.schema.json",
+        "updateTime": 1669049619039
+      },
+      "https://schema.management.azure.com/schemas/2019-05-01-preview/Microsoft.Support.json": {
+        "etag": "0x8DA74186F66620F",
+        "fileName": "b0c5ec713e0a7b82caa9b90597742a4e.schema.json",
+        "updateTime": 1669049619040
+      },
+      "https://schema.management.azure.com/schemas/2018-01-01/Microsoft.EventGrid.json": {
+        "etag": "0x8DA74186F1FC6BB",
+        "fileName": "1d712d5a7e8fade41ccf1ff01a0cfd9b.schema.json",
+        "updateTime": 1669049619041
+      },
+      "https://schema.management.azure.com/schemas/2019-01-01/Microsoft.EventGrid.json": {
+        "etag": "0x8DA74186F56D415",
+        "fileName": "d9fa6713dbeb46e2638223d7fa676b9b.schema.json",
+        "updateTime": 1669049619041
+      },
+      "https://schema.management.azure.com/schemas/2021-05-01/Microsoft.Consumption.json": {
+        "etag": "0x8DA7418703AA947",
+        "fileName": "67a83d510b43cef0e9383ac9745d1ddc.schema.json",
+        "updateTime": 1669049619042
+      },
+      "https://schema.management.azure.com/schemas/2020-02-01-preview/Microsoft.Datadog.json": {
+        "etag": "0x8DA74186FA00710",
+        "fileName": "931957b83876f026968c2d06934fc920.schema.json",
+        "updateTime": 1669049619043
+      },
+      "https://schema.management.azure.com/schemas/2017-09-15-preview/Microsoft.EventGrid.json": {
+        "etag": "0x8DA74186F13BA95",
+        "fileName": "8b6e81ce3ae66357c7550a45af3a8deb.schema.json",
+        "updateTime": 1669049619044
+      },
+      "https://schema.management.azure.com/schemas/2021-10-01/Microsoft.Consumption.json": {
+        "etag": "0x8DA74187072A0CD",
+        "fileName": "93b10cd0ff988c6cb8cbe773e3ea2929.schema.json",
+        "updateTime": 1669049619045
+      },
+      "https://schema.management.azure.com/schemas/2019-04-01-preview/Microsoft.Consumption.json": {
+        "etag": "0x8DA74186F61CEEA",
+        "fileName": "b97f62e45166404e113a9229c60ea30e.schema.json",
+        "updateTime": 1669049619047
+      },
+      "https://schema.management.azure.com/schemas/2019-05-01/Microsoft.Consumption.json": {
+        "etag": "0x8DA74186F67C16B",
+        "fileName": "e5c415fdd204ace20f07183b9f463e96.schema.json",
+        "updateTime": 1669049619048
+      },
+      "https://schema.management.azure.com/schemas/2018-03-31/Microsoft.Consumption.json": {
+        "etag": "0x8DA74186F2C47F7",
+        "fileName": "6e360866a57764708dc40755092ceb3c.schema.json",
+        "updateTime": 1669049619049
+      },
+      "https://schema.management.azure.com/schemas/2019-01-01/Microsoft.Consumption.json": {
+        "etag": "0x8DA74186F5637DD",
+        "fileName": "e185b2d3eae8c55fecfb283a6bd0433d.schema.json",
+        "updateTime": 1669049619049
+      },
+      "https://schema.management.azure.com/schemas/2019-06-01/Microsoft.Consumption.json": {
+        "etag": "0x8DA74186F6E5023",
+        "fileName": "37032e57c5d432832ed5fb1f96e30879.schema.json",
+        "updateTime": 1669049619050
+      },
+      "https://schema.management.azure.com/schemas/2019-10-01/Microsoft.Consumption.json": {
+        "etag": "0x8DA74186F85A537",
+        "fileName": "722bb7b57e35b8982a50d1c3f0ea2995.schema.json",
+        "updateTime": 1669049619051
+      },
+      "https://schema.management.azure.com/schemas/2018-08-31/Microsoft.Consumption.json": {
+        "etag": "0x8DA74186F4300E1",
+        "fileName": "6aea75ba26384f5e175a841343765100.schema.json",
+        "updateTime": 1669049619052
+      },
+      "https://schema.management.azure.com/schemas/2018-10-01/Microsoft.Consumption.json": {
+        "etag": "0x8DA74186F4B3D04",
+        "fileName": "92e4b446db6ac5f945a506b897d27193.schema.json",
+        "updateTime": 1669049619052
+      },
+      "https://schema.management.azure.com/schemas/2019-05-01-preview/Microsoft.Consumption.json": {
+        "etag": "0x8DA74186F6577D2",
+        "fileName": "bef138b5575e6b0fcace58c5f5803c85.schema.json",
+        "updateTime": 1669049619053
+      },
+      "https://schema.management.azure.com/schemas/2021-12-01/Microsoft.Confluent.json": {
+        "etag": "0x8DA74187088216A",
+        "fileName": "f0bc0f7f2956df1806ceb774fbb36729.schema.json",
+        "updateTime": 1669049619054
+      },
+      "https://schema.management.azure.com/schemas/2020-03-01-preview/Microsoft.Confluent.json": {
+        "etag": "0x8DA74186FA620A8",
+        "fileName": "4128ba4375744b26eaefa8d0d74bd82e.schema.json",
+        "updateTime": 1669049619055
+      },
+      "https://schema.management.azure.com/schemas/2020-04-01-preview/Microsoft.ChangeAnalysis.json": {
+        "etag": "0x8DA74186FAD999A",
+        "fileName": "5606c3049dcd24fce8729f4a3f2193c2.schema.json",
+        "updateTime": 1669049619056
+      },
+      "https://schema.management.azure.com/schemas/2020-10-25/Microsoft.Capacity.json": {
+        "etag": "0x8DA74186FFC2300",
+        "fileName": "05c50042f34e06524ca8916ef56ba9e2.schema.json",
+        "updateTime": 1669049619056
+      },
+      "https://schema.management.azure.com/schemas/2020-03-01/Microsoft.Confluent.json": {
+        "etag": "0x8DA74186FA8B852",
+        "fileName": "39c9c3f79a6197a7fe78cc14bd5475d7.schema.json",
+        "updateTime": 1669049619057
+      },
+      "https://schema.management.azure.com/schemas/2018-11-01-preview/Microsoft.Billing.json": {
+        "etag": "0x8DA74186F4EBEEF",
+        "fileName": "72b2f96c491f7f9b90bc1c2065b767fa.schema.json",
+        "updateTime": 1669049619058
+      },
+      "https://schema.management.azure.com/schemas/2021-03-01/Microsoft.Datadog.json": {
+        "etag": "0x8DA7418706E0D9E",
+        "fileName": "014e4d212ee393f65b5b3b3ad18b2061.schema.json",
+        "updateTime": 1669049619059
+      },
+      "https://schema.management.azure.com/schemas/2019-07-19-preview/Microsoft.Capacity.json": {
+        "etag": "0x8DA74186F77C49B",
+        "fileName": "ebebd1332c8fbf0d63e3e4dc15f3c158.schema.json",
+        "updateTime": 1669049619060
+      },
+      "https://schema.management.azure.com/schemas/2021-09-01-preview/Microsoft.Confluent.json": {
+        "etag": "0x8DA741870655C66",
+        "fileName": "20df2562a0a4e005ec362f57a4b8abb4.schema.json",
+        "updateTime": 1669049619060
+      },
+      "https://schema.management.azure.com/schemas/2019-01-01/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186F559BB5",
+        "fileName": "ccf238a9d222541dffeb2a33108b37fe.schema.json",
+        "updateTime": 1669049619062
+      },
+      "https://schema.management.azure.com/schemas/2017-06-15-preview/Microsoft.EventGrid.json": {
+        "etag": "0x8DA74186F0B305F",
+        "fileName": "b8a97ea865e256d5ed9a6b3b02b64cdb.schema.json",
+        "updateTime": 1669049619062
+      },
+      "https://schema.management.azure.com/schemas/2018-01-31/Microsoft.Consumption.json": {
+        "etag": "0x8DA74186F20FF10",
+        "fileName": "d3f26210f4f6ee27930d2d03524f3fdb.schema.json",
+        "updateTime": 1669049619063
+      },
+      "https://schema.management.azure.com/schemas/2020-10-01/Microsoft.Resources.json": {
+        "etag": "0x8DA74186FF87A0D",
+        "fileName": "fa71893e5215e99153c129e7702abceb.schema.json",
+        "updateTime": 1669049619066
+      },
+      "https://schema.management.azure.com/schemas/2019-06-01/Microsoft.EventGrid.json": {
+        "etag": "0x8DA74186F6E9E36",
+        "fileName": "355ccf7fcf0afb425d3dc99c02bbc3dc.schema.json",
+        "updateTime": 1669049619067
+      },
+      "https://schema.management.azure.com/schemas/2020-01-01-preview/Microsoft.EventGrid.json": {
+        "etag": "0x8DA74186F99ED86",
+        "fileName": "d9839326dcc4d320be14098394540637.schema.json",
+        "updateTime": 1669049619068
+      },
+      "https://schema.management.azure.com/schemas/2019-02-01-preview/Microsoft.EventGrid.json": {
+        "etag": "0x8DA74186F58A882",
+        "fileName": "b08c1db486844762966bebfc07b61495.schema.json",
+        "updateTime": 1669049619069
+      },
+      "https://schema.management.azure.com/schemas/2018-09-15-preview/Microsoft.EventGrid.json": {
+        "etag": "0x8DA74186F496895",
+        "fileName": "f6184d90b412851e396cef45aba4f062.schema.json",
+        "updateTime": 1669049619070
+      },
+      "https://schema.management.azure.com/schemas/2018-05-01-preview/Microsoft.EventGrid.json": {
+        "etag": "0x8DA74186F2F06B1",
+        "fileName": "b75ecfd903922d6f177deb0ad3671fcf.schema.json",
+        "updateTime": 1669049619070
+      },
+      "https://schema.management.azure.com/schemas/2019-05-01/Microsoft.Resources.json": {
+        "etag": "0x8DA74186F6920CA",
+        "fileName": "1472a153fa20b49eddffc96473c7700a.schema.json",
+        "updateTime": 1669049619072
+      },
+      "https://schema.management.azure.com/schemas/2020-06-01/Microsoft.EventGrid.json": {
+        "etag": "0x8DA74186FD7B089",
+        "fileName": "d65c453dccf227430739fb01a35a600b.schema.json",
+        "updateTime": 1669049619076
+      },
+      "https://schema.management.azure.com/schemas/2021-06-01/Microsoft.Peering.json": {
+        "etag": "0x8DA7418704B96A7",
+        "fileName": "f30ef807dcfa305a2cbc4ca29d8b218c.schema.json",
+        "updateTime": 1669049619077
+      },
+      "https://schema.management.azure.com/schemas/2020-07-01-preview/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186FDDCA22",
+        "fileName": "0519f8cb8044c2e54e9f00aa3bde6e00.schema.json",
+        "updateTime": 1669049619078
+      },
+      "https://schema.management.azure.com/schemas/2017-11-11-preview/Microsoft.Blueprint.json": {
+        "etag": "0x8DA74186F189BD9",
+        "fileName": "2e082d20f5002f04f562bd66fdfa20b4.schema.json",
+        "updateTime": 1669049619078
+      },
+      "https://schema.management.azure.com/schemas/2020-03-01/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186FA6E3DB",
+        "fileName": "47db94004cacdfd880fe9d5b432f8cdf.schema.json",
+        "updateTime": 1669049619079
+      },
+      "https://schema.management.azure.com/schemas/2021-06-01/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74187048B0E7",
+        "fileName": "791d8903b97aeab8aac4c71935969e9a.schema.json",
+        "updateTime": 1669049619080
+      },
+      "https://schema.management.azure.com/schemas/2020-09-01/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186FEBF8D3",
+        "fileName": "298aa54f77f29ccc564b2b54d249642d.schema.json",
+        "updateTime": 1669049619081
+      },
+      "https://schema.management.azure.com/schemas/2021-12-01/Microsoft.EventGrid.json": {
+        "etag": "0x8DA7418708932AB",
+        "fileName": "7c5bf7477b5496e070b1f47cf0005cec.schema.json",
+        "updateTime": 1669049619084
+      },
+      "https://schema.management.azure.com/schemas/2020-10-15-preview/Microsoft.EventGrid.json": {
+        "etag": "0x8DA74186FFB38CF",
+        "fileName": "06e9d7f12fbf9ff44d89303a8378b6e4.schema.json",
+        "updateTime": 1669049619085
+      },
+      "https://schema.management.azure.com/schemas/2018-11-01-preview/Microsoft.Blueprint.json": {
+        "etag": "0x8DA74186F4F5B14",
+        "fileName": "1d24f0fae44e4e5ef0b3acf20d8bae68.schema.json",
+        "updateTime": 1669049619086
+      },
+      "https://schema.management.azure.com/schemas/2018-06-30/Microsoft.Consumption.json": {
+        "etag": "0x8DA74186F3BD603",
+        "fileName": "d052828b334f24cb953e6414dc7ce91f.schema.json",
+        "updateTime": 1669049619087
+      },
+      "https://schema.management.azure.com/schemas/2022-06-15/Microsoft.EventGrid.json": {
+        "etag": "0x8DA741870B93C23",
+        "fileName": "1514cbda476a308a29fb25b2ce99478a.schema.json",
+        "updateTime": 1669049619089
+      },
+      "https://schema.management.azure.com/schemas/2021-06-01-preview/Microsoft.EventGrid.json": {
+        "etag": "0x8DA741870438192",
+        "fileName": "ea34eae183ac4c9d52b1ae97fb8e14e8.schema.json",
+        "updateTime": 1669049619090
+      },
+      "https://schema.management.azure.com/schemas/2017-05-15/Microsoft.Addons.json": {
+        "etag": "0x8DA74186F07AE74",
+        "fileName": "463324b01a7eef32090958c22cb5cd8d.schema.json",
+        "updateTime": 1669049619092
+      },
+      "https://schema.management.azure.com/schemas/2019-11-01/Microsoft.Consumption.json": {
+        "etag": "0x8DA74186F8DBA53",
+        "fileName": "6d9489470306735efcdbf153fb02f6d0.schema.json",
+        "updateTime": 1669049619093
+      },
+      "https://schema.management.azure.com/schemas/2018-07-01-preview/Microsoft.PolicyInsights.json": {
+        "etag": "0x8DA74186F3D8372",
+        "fileName": "a963d3be2364659707be0a5ce2ca228a.schema.json",
+        "updateTime": 1669049619094
+      },
+      "https://schema.management.azure.com/schemas/2019-09-01-preview/Microsoft.Peering.json": {
+        "etag": "0x8DA74186F7F8BA0",
+        "fileName": "256071742f0837bfe3fe7bdd1dea8830.schema.json",
+        "updateTime": 1669049619095
+      },
+      "https://schema.management.azure.com/schemas/2021-10-01/Microsoft.PolicyInsights.json": {
+        "etag": "0x8DA74187074C353",
+        "fileName": "ed8ece9c159063a309d3d97ce5c42971.schema.json",
+        "updateTime": 1669049619096
+      },
+      "https://schema.management.azure.com/schemas/2021-01-01/Microsoft.MarketplaceOrdering.json": {
+        "etag": "0x8DA7418700F0BE5",
+        "fileName": "4e79a5abc06d20b1b6f77766a2b14874.schema.json",
+        "updateTime": 1669049619097
+      },
+      "https://schema.management.azure.com/schemas/2015-06-01/Microsoft.MarketplaceOrdering.json": {
+        "etag": "0x8DA74186ED1D974",
+        "fileName": "4b1b581210b87ff12e93cec575d7eda7.schema.json",
+        "updateTime": 1669049619098
+      },
+      "https://schema.management.azure.com/schemas/2020-01-01/Microsoft.Marketplace.json": {
+        "etag": "0x8DA74186F9F6AF0",
+        "fileName": "de0c3fa65bb3c7523de86b4e77149e83.schema.json",
+        "updateTime": 1669049619099
+      },
+      "https://schema.management.azure.com/schemas/2019-07-01/Microsoft.PolicyInsights.json": {
+        "etag": "0x8DA74186F766539",
+        "fileName": "4f7ab1b8e196c518086f2cce42e0fbd1.schema.json",
+        "updateTime": 1669049619101
+      },
+      "https://schema.management.azure.com/schemas/2016-09-01/Microsoft.Insights.json": {
+        "etag": "0x8DA74186EF206D4",
+        "fileName": "3f07a3f4da0bcfba74a0c6ca0702d359.schema.json",
+        "updateTime": 1669049619102
+      },
+      "https://schema.management.azure.com/schemas/2020-11-20/Microsoft.ProviderHub.json": {
+        "etag": "0x8DA741870023C92",
+        "fileName": "143153ffeda0a9e871798f74676ef707.schema.json",
+        "updateTime": 1669049619103
+      },
+      "https://schema.management.azure.com/schemas/2021-06-01-preview/Microsoft.ProviderHub.json": {
+        "etag": "0x8DA74187044E0E6",
+        "fileName": "55b92f4d2e53a8eaf49c758bd973b8ea.schema.json",
+        "updateTime": 1669049619104
+      },
+      "https://schema.management.azure.com/schemas/2021-01-01/Microsoft.Peering.json": {
+        "etag": "0x8DA741870101D30",
+        "fileName": "2f3236f2d614a114114401204b75830f.schema.json",
+        "updateTime": 1669049619105
+      },
+      "https://schema.management.azure.com/schemas/2020-04-01/Microsoft.Peering.json": {
+        "etag": "0x8DA74186FB4C477",
+        "fileName": "e13332afa26e4635828a6ee687ca963a.schema.json",
+        "updateTime": 1669049619106
+      },
+      "https://schema.management.azure.com/schemas/2020-01-01-preview/Microsoft.Peering.json": {
+        "etag": "0x8DA74186F999F63",
+        "fileName": "257ec64675dbe3a52747a2fef3186f68.schema.json",
+        "updateTime": 1669049619107
+      },
+      "https://schema.management.azure.com/schemas/2020-10-01/Microsoft.Peering.json": {
+        "etag": "0x8DA74186FF7DDE2",
+        "fileName": "a440a62274c6ea1c5b29322affd9b61c.schema.json",
+        "updateTime": 1669049619108
+      },
+      "https://schema.management.azure.com/schemas/2021-05-01-preview/Microsoft.Insights.json": {
+        "etag": "0x8DA7418703997FC",
+        "fileName": "ab821745fdead5f08bd6d3287a1586cb.schema.json",
+        "updateTime": 1669049619109
+      },
+      "https://schema.management.azure.com/schemas/2020-06-01/Microsoft.Resources.json": {
+        "etag": "0x8DA74186FD95DF4",
+        "fileName": "e8af5578ba590ebe99a2d4c2bd719ab4.schema.json",
+        "updateTime": 1669049619110
+      },
+      "https://schema.management.azure.com/schemas/2017-05-01-preview/Microsoft.Insights.json": {
+        "etag": "0x8DA74186F053DD0",
+        "fileName": "47fbd02e343f837b990da6023d5581a2.schema.json",
+        "updateTime": 1669049619111
+      },
+      "https://schema.management.azure.com/schemas/2016-03-01/Microsoft.Insights.json": {
+        "etag": "0x8DA74186EE314EF",
+        "fileName": "a4aabba10370587238cfac08958c2588.schema.json",
+        "updateTime": 1669049619112
+      },
+      "https://schema.management.azure.com/schemas/2015-07-01/Microsoft.Insights.json": {
+        "etag": "0x8DA74186ED61E97",
+        "fileName": "abdc67b37483c9da619b7c794851c76d.schema.json",
+        "updateTime": 1669049619112
+      },
+      "https://schema.management.azure.com/schemas/2019-08-01-preview/Microsoft.Peering.json": {
+        "etag": "0x8DA74186F7860C0",
+        "fileName": "fd45adce93be93d505bf27c4a7bcca38.schema.json",
+        "updateTime": 1669049619113
+      },
+      "https://schema.management.azure.com/schemas/2016-04-01/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186EE7F636",
+        "fileName": "39a76914c881baf99eb0ac4e4ddf524e.schema.json",
+        "updateTime": 1669049619114
+      },
+      "https://schema.management.azure.com/schemas/2019-06-01/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186F6E020F",
+        "fileName": "15e92690e142be8656236df93c40586d.schema.json",
+        "updateTime": 1669049619115
+      },
+      "https://schema.management.azure.com/schemas/2018-05-01/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186F2F7BD6",
+        "fileName": "01494e9ab8f9d0d0d8914fb2644e63bd.schema.json",
+        "updateTime": 1669049619116
+      },
+      "https://schema.management.azure.com/schemas/2017-06-01-preview/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186F07D57C",
+        "fileName": "cc08195b68063b8339ef83f91b4413bb.schema.json",
+        "updateTime": 1669049619117
+      },
+      "https://schema.management.azure.com/schemas/2016-09-01/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186EF22DDF",
+        "fileName": "33db5b82ed6e9a9f118921ccd85f4da1.schema.json",
+        "updateTime": 1669049619118
+      },
+      "https://schema.management.azure.com/schemas/2017-09-01/Microsoft.Authorization.json": {
+        "etag": "0x8DA74186F125B3D",
+        "fileName": "3cc7465a9447a1467b9f62efe77f81c8.schema.json",
+        "updateTime": 1669049619119
+      },
+      "https://schema.management.azure.com/schemas/2019-06-01-preview/Microsoft.ManagedNetwork.json": {
+        "etag": "0x8DA74186F6A8028",
+        "fileName": "a0bbc8bd5253bb37485679a5fc10fafa.schema.json",
+        "updateTime": 1669049619120
+      },
+      "https://schema.management.azure.com/schemas/2018-03-01/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186F28ED1E",
+        "fileName": "ad12a01c6065a35cdf18046a3d764a45.schema.json",
+        "updateTime": 1669049619121
+      },
+      "https://schema.management.azure.com/schemas/2020-05-01/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186FCF4D59",
+        "fileName": "6e76adbe3b88c5f732cfc38ff77be1de.schema.json",
+        "updateTime": 1669049619123
+      },
+      "https://schema.management.azure.com/schemas/2015-10-01-preview/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186EDBC318",
+        "fileName": "b38ff3c6dbcbae9563e6a55c179ffc94.schema.json",
+        "updateTime": 1669049619125
+      },
+      "https://schema.management.azure.com/schemas/2019-09-01/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186F7F8BA0",
+        "fileName": "15157a2b3669f6272c570f965e68d5b2.schema.json",
+        "updateTime": 1669049619126
+      },
+      "https://schema.management.azure.com/schemas/2017-04-19/Microsoft.Advisor.json": {
+        "etag": "0x8DA74186F04C8B5",
+        "fileName": "0fffb06dc5633fe540b97b3506afcbd2.schema.json",
+        "updateTime": 1669049619127
+      },
+      "https://schema.management.azure.com/schemas/2021-02-01-preview/Microsoft.IoTSecurity.json": {
+        "etag": "0x8DA741870179625",
+        "fileName": "5f02fa29397f8b16c29d2ef30ca8f54a.schema.json",
+        "updateTime": 1669049619128
+      },
+      "https://schema.management.azure.com/schemas/2018-03-01/Microsoft.Addons.json": {
+        "etag": "0x8DA74186F29142F",
+        "fileName": "49ce6442f6759d29a8bc3f79b0af5b50.schema.json",
+        "updateTime": 1669049619129
+      },
+      "https://schema.management.azure.com/schemas/2017-04-01/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186F023109",
+        "fileName": "864841e015621ad4166032249967a3c0.schema.json",
+        "updateTime": 1669049619130
+      },
+      "https://schema.management.azure.com/schemas/2016-12-01/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186EF8E39A",
+        "fileName": "3a10595dfb0331e4ec34d4e17709ad14.schema.json",
+        "updateTime": 1669049619131
+      },
+      "https://schema.management.azure.com/schemas/2021-09-01-preview/Microsoft.ProviderHub.json": {
+        "etag": "0x8DA74187068B73B",
+        "fileName": "ac4d14b1b86b184c80297c77e3a770d7.schema.json",
+        "updateTime": 1669049619132
+      },
+      "https://schema.management.azure.com/schemas/2015-01-01/Microsoft.Authorization.Resources.json": {
+        "etag": "0x8DA74186EC9EB66",
+        "fileName": "2e4eddd29c2333bfe86acc19f31145f0.schema.json",
+        "updateTime": 1669049619133
+      },
+      "https://schema.management.azure.com/schemas/2020-01-01-preview/Microsoft.HybridNetwork.json": {
+        "etag": "0x8DA74186F99785C",
+        "fileName": "9b5601049c80ade0065d0f317c9c4f3d.schema.json",
+        "updateTime": 1669049619134
+      },
+      "https://schema.management.azure.com/schemas/2022-01-01/Microsoft.Peering.json": {
+        "etag": "0x8DA7418709147CE",
+        "fileName": "8643b4d1e65571c5f3b51d05ff2c7e82.schema.json",
+        "updateTime": 1669049619135
+      },
+      "https://schema.management.azure.com/schemas/2021-05-01/Microsoft.HybridNetwork.json": {
+        "etag": "0x8DA7418703CCBCB",
+        "fileName": "82901f9bfe96cbe8caf4f87b1982fb0e.schema.json",
+        "updateTime": 1669049619136
+      },
+      "https://schema.management.azure.com/schemas/2022-01-01-preview/Microsoft.HybridNetwork.json": {
+        "etag": "0x8DA7418708E3AF9",
+        "fileName": "e243cd0704e650d35f5745d01b000952.schema.json",
+        "updateTime": 1669049619137
+      },
+      "https://schema.management.azure.com/schemas/2021-05-01-preview/Microsoft.ProviderHub.json": {
+        "etag": "0x8DA74187039E611",
+        "fileName": "865d7b56a0c071e75795df74d6852a39.schema.json",
+        "updateTime": 1669049619138
+      },
+      "https://schema.management.azure.com/schemas/2015-08-01/Microsoft.Web.json": {
+        "etag": "0x8DA74186EE36307",
+        "fileName": "63ba41967e70d175dc56b203f4bf30c1.schema.json",
+        "updateTime": 1669049619140
+      },
+      "https://schema.management.azure.com/schemas/2021-03-01-preview/Microsoft.Confluent.json": {
+        "etag": "0x8DA7418701E24DF",
+        "fileName": "5d9c8b7862f32f7c03dc353871e6be9a.schema.json",
+        "updateTime": 1669049619143
+      },
+      "https://schema.management.azure.com/schemas/2021-10-15-preview/Microsoft.EventGrid.json": {
+        "etag": "0x8DA741870797D93",
+        "fileName": "abbf71cd23ef76e687a9c7d5b0ef1e5f.schema.json",
+        "updateTime": 1669049619329
+      },
+      "https://schema.management.azure.com/schemas/2017-12-30-preview/Microsoft.Consumption.json": {
+        "etag": "0x8DA74186F1CB9E9",
+        "fileName": "79e1a9a9fb33fedc8108829a5ac6788d.schema.json",
+        "updateTime": 1669049619456
+      },
+      "https://schema.management.azure.com/schemas/2021-01-01/Microsoft.PolicyInsights.json": {
+        "etag": "0x8DA741870106B45",
+        "fileName": "34dda8e4a536af08184acaf2da985015.schema.json",
+        "updateTime": 1669049619534
+      },
+      "https://schema.management.azure.com/schemas/2020-04-01-preview/Microsoft.EventGrid.json": {
+        "etag": "0x8DA74186FADE7A9",
+        "fileName": "6190cd3dbb3096c32a7163dcbc9fabf9.schema.json",
+        "updateTime": 1669049619580
+      },
+      "https://schema.management.azure.com/schemas/2020-01-01/Microsoft.Advisor.json": {
+        "etag": "0x8DA74186F999F63",
+        "fileName": "161f60575efcb7784f5c52a6b4035967.schema.json",
+        "updateTime": 1669049619694
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+defaultservices:
+- api
+- jobs
+- internal-api
+cbendpoint: cbclocal_db
+apiusername: tom.tonner@couchbase.com
+apipassword: Password123!
