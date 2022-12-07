@@ -9,7 +9,6 @@ set colorcolumn=50,72,120
 set textwidth=120
 set clipboard=unnamed
 set noswapfile
-set ignorecase
 set smartcase
 set spelllang=en
 set breakindent
@@ -37,7 +36,6 @@ Plug 'christoomey/vim-tmux-navigator'
 Plug 'knsh14/vim-github-link' "github link to selected lines
 Plug 'vim-ruby/vim-ruby'
 Plug 'tpope/vim-rails'
-Plug 'lukas-reineke/indent-blankline.nvim'
 Plug 'sindrets/diffview.nvim'
 call plug#end()
 
@@ -47,13 +45,26 @@ map <ScrollWheelDown> <C-E>
 map <F5> :set spell!<CR><Bar>:echo "Spell Check: " . strpart("OffOn", 3 * &spell, 3)<CR>
 nmap <F6> <Cmd>CocCommand explorer<CR>
 nnoremap <leader>gd :DiffviewOpen<CR> 
+nnoremap <leader>gD :DiffviewOpen origin/main...HEAD<CR> 
 nnoremap <C-n> :bnext<CR>
 nnoremap <C-p> :bprevious<CR>
 nnoremap <C-d> :q<CR>
 nnoremap <C-D> :q!<CR>
 nnoremap <C-s> :wa<CR>
-xnoremap <C-g> :GetCommitLink<CR>
-nnoremap <C-l> :Telescope resume<CR>
+xnoremap <leader>gl :GetCommitLink<CR><CR>
+xnoremap <leader>gL :GetCurrentBranchLink<CR><CR>
+nnoremap <leader>p :Telescope resume<CR>
+nnoremap <leader>qr viw"_dP
+nnoremap <leader>qR "_dP
+
+" auto close
+inoremap " ""<left>
+inoremap ' ''<left>
+inoremap ( ()<left>
+inoremap [ []<left>
+inoremap { {}<left>
+inoremap {<CR> {<CR>}<ESC>O
+inoremap {;<CR> {<CR>};<ESC>O
 
 " other
 highlight ColorColumn ctermbg=0 guibg=lightgrey
@@ -367,10 +378,6 @@ telescope.setup {
       }
     },
   },
-}
-
-require("indent_blankline").setup {
-    show_end_of_line = true,
 }
 
 -- fuzzy find
