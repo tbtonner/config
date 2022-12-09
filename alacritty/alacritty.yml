@@ -155,7 +155,7 @@ shell:
 colors:
   # Default colors
   primary:
-    background: '#19212e'
+    background: '#18212f'
     foreground: '#abb2bf'
 
   # Normal colors

@@ -91,12 +91,6 @@ endif
 " enable auto format when write (default)
 let g:goimports = 1
 
-" By applying the mappings this way you can pass a count to your
-" mapping to open a specific window.
-" For example: 2<C-t> will open terminal 2
-nnoremap <silent><c-t> <Cmd>exe v:count1 . "ToggleTerm"<CR>
-inoremap <silent><c-t> <Esc><Cmd>exe v:count1 . "ToggleTerm"<CR>
-
 " COC STUFF
 
 " Having longer updatetime (default is 4000 ms = 4 s) leads to noticeable
@@ -373,10 +367,9 @@ vim.keymap.set('n', '<C-f>', builtin.live_grep, {})
 vim.keymap.set('n', '<C-b>', builtin.buffers, {})
 vim.keymap.set('n', '<leader>th', builtin.help_tags, {})
 
-require('onedark').load()
 require('onedark').setup  {
     -- Main options --
-    style = 'deep', -- Default theme style. Choose between 'dark', 'darker', 'cool', 'deep', 'warm', 'warmer' and 'light'
+	style = 'deep', -- Default theme style. Choose between 'dark', 'darker', 'cool', 'deep', 'warm', 'warmer' and 'light'
     transparent = false,  -- Show/hide background
     term_colors = true, -- Change terminal color as per the selected theme style
     ending_tildes = false, -- Show the end-of-buffer tildes. By default they are hidden
@@ -384,7 +377,7 @@ require('onedark').setup  {
 
     -- toggle theme style ---
     toggle_style_key = "<leader>ts", -- keybind to toggle theme style. Leave it nil to disable it, or set it to a string, for example "<leader>ts"
-    toggle_style_list = {'dark', 'darker', 'cool', 'deep', 'warm', 'warmer', 'light'}, -- List of styles to toggle between
+    toggle_style_list = {'deep', 'darker', 'cool', 'dark', 'warm', 'warmer', 'light'}, -- List of styles to toggle between
 
     -- Change code style ---
     -- Options are italic, bold, underline, none
@@ -397,5 +390,6 @@ require('onedark').setup  {
         variables = 'none'
     },
 }
+require('onedark').load()
 
 EOF
