@@ -74,13 +74,6 @@ inoremap {;<CR> {<CR>};<ESC>O
 " other
 highlight ColorColumn ctermbg=0 guibg=lightgrey
 
-" Load the colorscheme
-let g:onedark_config = {
-  \ 'style': 'deep',
-  \ 'toggle_style_key': '<leader>ts',
-\ }
-colorscheme onedark
-
 " minimap
 let g:minimap_width = 10
 let g:minimap_auto_start = 1
@@ -379,5 +372,30 @@ vim.keymap.set('n', '<C-p>', builtin.find_files, {})
 vim.keymap.set('n', '<C-f>', builtin.live_grep, {})
 vim.keymap.set('n', '<C-b>', builtin.buffers, {})
 vim.keymap.set('n', '<leader>th', builtin.help_tags, {})
+
+require('onedark').load()
+require('onedark').setup  {
+    -- Main options --
+    style = 'deep', -- Default theme style. Choose between 'dark', 'darker', 'cool', 'deep', 'warm', 'warmer' and 'light'
+    transparent = false,  -- Show/hide background
+    term_colors = true, -- Change terminal color as per the selected theme style
+    ending_tildes = false, -- Show the end-of-buffer tildes. By default they are hidden
+    cmp_itemkind_reverse = false, -- reverse item kind highlights in cmp menu
+
+    -- toggle theme style ---
+    toggle_style_key = "<leader>ts", -- keybind to toggle theme style. Leave it nil to disable it, or set it to a string, for example "<leader>ts"
+    toggle_style_list = {'dark', 'darker', 'cool', 'deep', 'warm', 'warmer', 'light'}, -- List of styles to toggle between
+
+    -- Change code style ---
+    -- Options are italic, bold, underline, none
+    -- You can configure multiple style with comma seperated, For e.g., keywords = 'italic,bold'
+    code_style = {
+        comments = 'italic',
+        keywords = 'italic',
+        functions = 'none',
+        strings = 'none',
+        variables = 'none'
+    },
+}
 
 EOF
