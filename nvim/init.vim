@@ -3,21 +3,25 @@ set ruler
 set tabstop=4
 set shiftwidth=4
 set autoindent
+set cursorline
 set encoding=UTF-8
 set mouse=a
 set colorcolumn=50,72,120
 set textwidth=120
 set clipboard=unnamed
+set regexpengine=1
 set noswapfile
 set smartcase
 set spelllang=en
 set breakindent
 set breakindentopt=shift:2,min:40,sbr
+set termguicolors
 
 syntax enable
 
 call plug#begin()
 Plug 'tpope/vim-fugitive' "git stuff
+Plug 'tpope/vim-surround' "surround - opposite to inner
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'navarasu/onedark.nvim'
@@ -45,6 +49,7 @@ map <ScrollWheelDown> <C-E>
 map <F5> :set spell!<CR><Bar>:echo "Spell Check: " . strpart("OffOn", 3 * &spell, 3)<CR>
 nmap <F6> <Cmd>CocCommand explorer<CR>
 nnoremap <leader>gd :DiffviewOpen<CR> 
+nnoremap <leader>gc :DiffviewClose<CR> 
 nnoremap <leader>gD :DiffviewOpen origin/main...HEAD<CR> 
 nnoremap <C-n> :bnext<CR>
 nnoremap <C-p> :bprevious<CR>
@@ -55,7 +60,7 @@ xnoremap <leader>gl :GetCommitLink<CR><CR>
 xnoremap <leader>gL :GetCurrentBranchLink<CR><CR>
 nnoremap <leader>p :Telescope resume<CR>
 nnoremap <leader>qr viw"_dP
-nnoremap <leader>qR "_dP
+xnoremap <leader>qr "_dP
 
 " auto close
 inoremap " ""<left>
@@ -73,11 +78,6 @@ highlight ColorColumn ctermbg=0 guibg=lightgrey
 let g:onedark_config = {
   \ 'style': 'deep',
   \ 'toggle_style_key': '<leader>ts',
-  \ 'ending_tildes': v:true,
-  \ 'diagnostics': {
-    \ 'darker': v:false,
-    \ 'background': v:false,
-  \ },
 \ }
 colorscheme onedark
 
@@ -91,19 +91,12 @@ let g:blamer_enabled = 1
 
 "tmux colour fix
 if exists('$TMUX')
-  " Colors in tmux
   let &t_8f = "<Esc>[38;2;%lu;%lu;%lum"
   let &t_8b = "<Esc>[48;2;%lu;%lu;%lum"
 endif
-set termguicolors
 
 " enable auto format when write (default)
 let g:goimports = 1
-
-" TERMINAL
-" set
-autocmd TermEnter term://*toggleterm#*
-      \ tnoremap <silent><c-t> <Cmd>exe v:count1 . "ToggleTerm"<CR>
 
 " By applying the mappings this way you can pass a count to your
 " mapping to open a specific window.
@@ -200,11 +193,11 @@ xmap ac <Plug>(coc-classobj-a)
 omap ac <Plug>(coc-classobj-a)
 
 if has('nvim-0.4.0') || has('patch-8.2.0750')
-  nnoremap <silent><nowait><expr> <C-l> coc#float#has_scroll() ? coc#float#scroll(1) : "\<C-f>"
+  nnoremap <silent><nowait><expr> <C-'> coc#float#has_scroll() ? coc#float#scroll(1) : "\<C-f>"
   nnoremap <silent><nowait><expr> <C-m> coc#float#has_scroll() ? coc#float#scroll(0) : "\<C-b>"
-  inoremap <silent><nowait><expr> <C-l> coc#float#has_scroll() ? "\<c-r>=coc#float#scroll(1)\<cr>" : "\<Right>"
+  inoremap <silent><nowait><expr> <C-'> coc#float#has_scroll() ? "\<c-r>=coc#float#scroll(1)\<cr>" : "\<Right>"
   inoremap <silent><nowait><expr> <C-m> coc#float#has_scroll() ? "\<c-r>=coc#float#scroll(0)\<cr>" : "\<Left>"
-  vnoremap <silent><nowait><expr> <C-l> coc#float#has_scroll() ? coc#float#scroll(1) : "\<C-f>"
+  vnoremap <silent><nowait><expr> <C-'> coc#float#has_scroll() ? coc#float#scroll(1) : "\<C-f>"
   vnoremap <silent><nowait><expr> <C-m> coc#float#has_scroll() ? coc#float#scroll(0) : "\<C-b>"
 endif
 
@@ -385,6 +378,6 @@ local builtin = require('telescope.builtin')
 vim.keymap.set('n', '<C-p>', builtin.find_files, {})
 vim.keymap.set('n', '<C-f>', builtin.live_grep, {})
 vim.keymap.set('n', '<C-b>', builtin.buffers, {})
-vim.keymap.set('n', '<C-h>', builtin.help_tags, {})
+vim.keymap.set('n', '<leader>th', builtin.help_tags, {})
 
 EOF
